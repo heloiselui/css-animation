@@ -20,7 +20,7 @@ footer {
       transition: rotate 350ms;
 
       &:hover {
-        rotate: 90deg;
+        rotate: 180deg;
       }
     }
   }
@@ -85,8 +85,6 @@ footer {
         width: inherit;
         height: inherit;
         border-radius: inherit;
-
-
         background: var(--spinflow-sun);
 
         position: absolute;
@@ -99,6 +97,4 @@ footer {
       }
     }
   }
-
-
 }
